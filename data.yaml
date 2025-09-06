@@ -1,0 +1,5 @@
+train: C:/Users/Gunajothi/OneDrive/Desktop/Fruit_Ripeness/data/train/images
+val: C:/Users/Gunajothi/OneDrive/Desktop/Fruit_Ripeness/data/test/images
+
+nc: 4
+names: ['raw_banana', 'raw_mango', 'ripe_banana', 'ripe_mango']
