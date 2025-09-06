@@ -1,0 +1,9 @@
+ECHO is on.
+# Ignore the dataset folder
+data/
+
+# Ignore YoloV8 training results and related files
+yolov8env/
+
+# Ignore Python environment files
+yolov8n.pt
